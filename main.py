@@ -15,4 +15,4 @@ elif ch == "G" or ch == "g":
     print("Password:", generate_password(n))
 
 else:
-    print("Wrong choice")
+    print("choice")
